@@ -1,5 +1,6 @@
 """
-Ini adalah demo project pertama dengan Python
+Kode pertama belajar python
 """
-print ("hello world")
-print ("Nama saya Edi")
+
+print("Hello World")
+print("Halo Dunia")
